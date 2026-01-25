@@ -18,7 +18,7 @@
 - Filter tasks by **status** (open/completed), **priority**, or **hashtag/category**.  
 
 ### 1.2 User Account  
-- Simple authentication via **email + password**.  
+- Simple authentication.  
 - Each user sees **only their own tasks** (no shared boards in MVP).  
 
 ### 1.3 Task Organization  
@@ -45,28 +45,23 @@
 ### 2.3 Usability  
 - Interface must be **mobile-first**, responsive on desktop and mobile browsers.  
 
-### 2.4 Availability  
-- System uptime: **99%** during test phase.  
-- **Daily backup**; restore possible within **24 hours**.  
-
-### 2.5 Auditability  
+### 2.4 Auditability  
 - Changes to tasks (**create/update/delete/complete**) must be **logged** with timestamp and user ID.  
 
 ---
 
 ## 3. Constraints  
 
-### 3.1 Time  
-- MVP delivery within **8 weeks**.  
+ 
 
-### 3.2 Budget  
+### 3.1 Budget  
 - Limited to **internal resources** (no external vendor costs).  
 
-### 3.3 Technology  
+### 3.2 Technology  
 - **Backend:** PostgreSQL, Java  
 - **Frontend:** React (Vite)  
-- **Deployment:**   
-- **Testing:** 
+- **Deployment:** Render  
+- **Testing:** Jacoco
 
 ---
 
