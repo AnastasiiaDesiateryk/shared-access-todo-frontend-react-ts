@@ -1,7 +1,7 @@
 # 📝 To-Do List Application — Requirements Document  
 **Project:** Internal Productivity Tool (MVP)  
 **Author:** Anastasiia Desiateryk  
-**Date:** 2025-10-03  
+**Date:** 2025-10-04  
 
 ---
 
